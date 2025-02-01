@@ -1,7 +1,7 @@
 package DSA;
 
 import java.util.Scanner;
-public class reverse 
+public class reversearray 
 {
     static int[] rev(int arr[],int n)
     {
